@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Layouts19thMay</string>
+    <string name="action_constraint">Constraint</string>
+    <string name="action_coordinator">Coordinator</string>
+    <string name="action_motion">Motion</string>
+</resources>
